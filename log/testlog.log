@@ -1,0 +1,530 @@
+2022-01-25 22:49:51,077 - CucumberJava -INFO - ********Launching browser**********
+2022-01-25 22:49:51,108 - CucumberJava -INFO - ********Opening URL**********
+2022-01-25 22:50:00,581 - CucumberJava -INFO - ********Providing login details**********
+2022-01-25 22:50:00,917 - CucumberJava -INFO - ********Started login**********
+2022-01-25 22:52:38,285 - CucumberJava -INFO - ********Launching browser**********
+2022-01-25 22:52:38,314 - CucumberJava -INFO - ********Opening URL**********
+2022-01-25 22:52:40,747 - CucumberJava -INFO - ********Providing login details**********
+2022-01-25 22:52:41,022 - CucumberJava -INFO - ********Started login**********
+2022-01-25 22:53:02,711 - CucumberJava -INFO - ********Adding new costumer**********
+2022-01-25 22:53:02,717 - CucumberJava -INFO - ********Providing costumer details**********
+2022-01-25 22:53:10,110 - CucumberJava -INFO - ********Saving costumer data**********
+2022-01-25 22:53:14,950 - CucumberJava -INFO - ********Closing browser**********
+2022-01-25 22:53:16,379 - CucumberJava -INFO - ********Launching browser**********
+2022-01-25 22:53:16,380 - CucumberJava -INFO - ********Opening URL**********
+2022-01-25 22:53:18,677 - CucumberJava -INFO - ********Providing login details**********
+2022-01-25 22:53:18,951 - CucumberJava -INFO - ********Started login**********
+2022-01-25 22:53:41,132 - CucumberJava -INFO - ********Searching costumer by email id**********
+2022-01-25 22:53:44,636 - CucumberJava -INFO - ********Closing browser**********
+2022-01-25 22:53:45,985 - CucumberJava -INFO - ********Launching browser**********
+2022-01-25 22:53:45,985 - CucumberJava -INFO - ********Opening URL**********
+2022-01-25 22:53:48,283 - CucumberJava -INFO - ********Providing login details**********
+2022-01-25 22:53:48,541 - CucumberJava -INFO - ********Started login**********
+2022-01-25 22:54:31,690 - CucumberJava -INFO - ********Searching costumer by Name**********
+2022-01-25 22:54:35,337 - CucumberJava -INFO - ********Closing browser**********
+2022-01-25 22:54:36,699 - CucumberJava -INFO - ********Launching browser**********
+2022-01-25 22:54:36,700 - CucumberJava -INFO - ********Opening URL**********
+2022-01-25 22:54:39,035 - CucumberJava -INFO - ********Providing login details**********
+2022-01-25 22:54:39,300 - CucumberJava -INFO - ********Started login**********
+2022-01-25 22:54:46,730 - CucumberJava -INFO - ********Login failed**********
+2022-01-25 22:54:46,749 - CucumberJava -INFO - ********Click on logout link**********
+2022-01-25 22:54:51,553 - CucumberJava -INFO - ********Login failed**********
+2022-01-25 22:54:51,563 - CucumberJava -INFO - ********Closing browser**********
+2022-01-25 22:54:56,985 - CucumberJava -INFO - ********Launching browser**********
+2022-01-25 22:54:56,986 - CucumberJava -INFO - ********Opening URL**********
+2022-01-25 22:57:00,478 - CucumberJava -INFO - ********Providing login details**********
+2022-01-25 22:57:00,798 - CucumberJava -INFO - ********Started login**********
+2022-01-25 23:00:02,161 - CucumberJava -INFO - ********Launching browser**********
+2022-01-25 23:00:02,164 - CucumberJava -INFO - ********Opening URL**********
+2022-01-25 23:00:05,906 - CucumberJava -INFO - ********Providing login details**********
+2022-01-25 23:00:06,141 - CucumberJava -INFO - ********Started login**********
+2022-01-25 23:00:07,607 - CucumberJava -INFO - ********Login passed**********
+2022-01-25 23:01:23,595 - CucumberJava -INFO - ********Launching browser**********
+2022-01-25 23:01:23,622 - CucumberJava -INFO - ********Opening URL**********
+2022-01-25 23:01:26,380 - CucumberJava -INFO - ********Providing login details**********
+2022-01-25 23:01:26,651 - CucumberJava -INFO - ********Started login**********
+2022-01-25 23:01:47,378 - CucumberJava -INFO - ********Adding new costumer**********
+2022-01-25 23:01:47,379 - CucumberJava -INFO - ********Providing costumer details**********
+2022-01-25 23:01:54,809 - CucumberJava -INFO - ********Saving costumer data**********
+2022-01-25 23:02:00,429 - CucumberJava -INFO - ********Closing browser**********
+2022-01-25 23:02:01,865 - CucumberJava -INFO - ********Launching browser**********
+2022-01-25 23:02:01,868 - CucumberJava -INFO - ********Opening URL**********
+2022-01-25 23:02:04,239 - CucumberJava -INFO - ********Providing login details**********
+2022-01-25 23:02:04,522 - CucumberJava -INFO - ********Started login**********
+2022-01-25 23:02:35,631 - CucumberJava -INFO - ********Searching costumer by email id**********
+2022-01-25 23:02:39,189 - CucumberJava -INFO - ********Closing browser**********
+2022-01-25 23:02:40,633 - CucumberJava -INFO - ********Launching browser**********
+2022-01-25 23:02:40,635 - CucumberJava -INFO - ********Opening URL**********
+2022-01-25 23:02:44,456 - CucumberJava -INFO - ********Providing login details**********
+2022-01-25 23:02:44,722 - CucumberJava -INFO - ********Started login**********
+2022-01-25 23:03:25,019 - CucumberJava -INFO - ********Searching costumer by Name**********
+2022-01-25 23:03:29,284 - CucumberJava -INFO - ********Closing browser**********
+2022-01-25 23:03:30,682 - CucumberJava -INFO - ********Launching browser**********
+2022-01-25 23:03:30,684 - CucumberJava -INFO - ********Opening URL**********
+2022-01-25 23:03:32,477 - CucumberJava -INFO - ********Providing login details**********
+2022-01-25 23:03:32,759 - CucumberJava -INFO - ********Started login**********
+2022-01-25 23:03:38,764 - CucumberJava -INFO - ********Login failed**********
+2022-01-25 23:03:38,786 - CucumberJava -INFO - ********Click on logout link**********
+2022-01-25 23:03:43,545 - CucumberJava -INFO - ********Login failed**********
+2022-01-25 23:03:43,556 - CucumberJava -INFO - ********Closing browser**********
+2022-01-25 23:03:44,884 - CucumberJava -INFO - ********Launching browser**********
+2022-01-25 23:03:44,886 - CucumberJava -INFO - ********Opening URL**********
+2022-01-25 23:03:47,240 - CucumberJava -INFO - ********Providing login details**********
+2022-01-25 23:03:47,495 - CucumberJava -INFO - ********Started login**********
+2022-01-25 23:03:55,542 - CucumberJava -INFO - ********Login failed**********
+2022-01-25 23:03:55,556 - CucumberJava -INFO - ********Click on logout link**********
+2022-01-25 23:04:01,389 - CucumberJava -INFO - ********Login failed**********
+2022-01-25 23:04:01,401 - CucumberJava -INFO - ********Closing browser**********
+2022-01-25 23:04:06,761 - CucumberJava -INFO - ********Launching browser**********
+2022-01-25 23:04:06,762 - CucumberJava -INFO - ********Opening URL**********
+2022-01-25 23:04:09,323 - CucumberJava -INFO - ********Providing login details**********
+2022-01-25 23:04:09,574 - CucumberJava -INFO - ********Started login**********
+2022-01-25 23:04:10,923 - CucumberJava -INFO - ********Login passed**********
+2022-01-26 10:20:20,099 - CucumberJava -INFO - ********Launching browser**********
+2022-01-26 10:20:20,127 - CucumberJava -INFO - ********Opening URL**********
+2022-01-26 10:20:22,960 - CucumberJava -INFO - ********Providing login details**********
+2022-01-26 10:20:23,263 - CucumberJava -INFO - ********Started login**********
+2022-01-26 10:23:07,757 - CucumberJava -INFO - ********Launching browser**********
+2022-01-26 10:23:07,782 - CucumberJava -INFO - ********Opening URL**********
+2022-01-26 10:23:10,147 - CucumberJava -INFO - ********Providing login details**********
+2022-01-26 10:23:10,423 - CucumberJava -INFO - ********Started login**********
+2022-01-26 10:23:32,911 - CucumberJava -INFO - ********Adding new costumer**********
+2022-01-26 10:23:32,911 - CucumberJava -INFO - ********Providing costumer details**********
+2022-01-26 10:23:40,262 - CucumberJava -INFO - ********Saving costumer data**********
+2022-01-26 10:23:45,441 - CucumberJava -INFO - ********Closing browser**********
+2022-01-26 10:23:46,944 - CucumberJava -INFO - ********Launching browser**********
+2022-01-26 10:23:46,952 - CucumberJava -INFO - ********Opening URL**********
+2022-01-26 10:23:49,266 - CucumberJava -INFO - ********Providing login details**********
+2022-01-26 10:23:49,527 - CucumberJava -INFO - ********Started login**********
+2022-01-26 10:24:05,070 - CucumberJava -INFO - ********Searching costumer by email id**********
+2022-01-26 10:24:08,629 - CucumberJava -INFO - ********Closing browser**********
+2022-01-26 10:24:10,064 - CucumberJava -INFO - ********Launching browser**********
+2022-01-26 10:24:10,064 - CucumberJava -INFO - ********Opening URL**********
+2022-01-26 10:24:12,593 - CucumberJava -INFO - ********Providing login details**********
+2022-01-26 10:24:12,870 - CucumberJava -INFO - ********Started login**********
+2022-01-26 10:24:57,008 - CucumberJava -INFO - ********Searching costumer by Name**********
+2022-01-26 10:25:00,752 - CucumberJava -INFO - ********Closing browser**********
+2022-01-26 10:34:17,201 - CucumberJava -INFO - ********Launching browser**********
+2022-01-26 10:34:17,228 - CucumberJava -INFO - ********Opening URL**********
+2022-01-26 10:34:20,173 - CucumberJava -INFO - ********Providing login details**********
+2022-01-26 10:34:20,447 - CucumberJava -INFO - ********Started login**********
+2022-01-26 10:34:43,394 - CucumberJava -INFO - ********Adding new costumer**********
+2022-01-26 10:34:43,394 - CucumberJava -INFO - ********Providing costumer details**********
+2022-01-26 10:34:50,798 - CucumberJava -INFO - ********Saving costumer data**********
+2022-01-26 10:34:55,491 - CucumberJava -INFO - ********Closing browser**********
+2022-01-26 10:34:58,844 - CucumberJava -INFO - ********Launching browser**********
+2022-01-26 10:34:58,851 - CucumberJava -INFO - ********Opening URL**********
+2022-01-26 10:35:01,237 - CucumberJava -INFO - ********Providing login details**********
+2022-01-26 10:35:01,496 - CucumberJava -INFO - ********Started login**********
+2022-01-26 10:35:16,320 - CucumberJava -INFO - ********Searching costumer by email id**********
+2022-01-26 10:35:19,930 - CucumberJava -INFO - ********Closing browser**********
+2022-01-26 10:35:23,173 - CucumberJava -INFO - ********Launching browser**********
+2022-01-26 10:35:23,176 - CucumberJava -INFO - ********Opening URL**********
+2022-01-26 10:35:25,461 - CucumberJava -INFO - ********Providing login details**********
+2022-01-26 10:35:25,724 - CucumberJava -INFO - ********Started login**********
+2022-01-26 10:35:39,384 - CucumberJava -INFO - ********Searching costumer by Name**********
+2022-01-26 10:35:43,211 - CucumberJava -INFO - ********Closing browser**********
+2022-01-26 11:41:35,232 - CucumberJava -INFO - ********Launching browser**********
+2022-01-26 11:41:35,257 - CucumberJava -INFO - ********Opening URL**********
+2022-01-26 11:41:39,328 - CucumberJava -INFO - ********Providing login details**********
+2022-01-26 11:41:39,573 - CucumberJava -INFO - ********Started login**********
+2022-01-26 11:42:15,778 - CucumberJava -INFO - ********Adding new costumer**********
+2022-01-26 11:42:15,784 - CucumberJava -INFO - ********Providing costumer details**********
+2022-01-26 11:42:23,295 - CucumberJava -INFO - ********Saving costumer data**********
+2022-01-26 11:42:28,919 - CucumberJava -INFO - ********Closing browser**********
+2022-01-26 11:42:30,261 - CucumberJava -INFO - ********Launching browser**********
+2022-01-26 11:42:30,266 - CucumberJava -INFO - ********Opening URL**********
+2022-01-26 11:42:32,476 - CucumberJava -INFO - ********Providing login details**********
+2022-01-26 11:42:32,722 - CucumberJava -INFO - ********Started login**********
+2022-01-26 11:42:50,027 - CucumberJava -INFO - ********Searching costumer by email id**********
+2022-01-26 11:42:53,627 - CucumberJava -INFO - ********Closing browser**********
+2022-01-26 11:42:54,979 - CucumberJava -INFO - ********Launching browser**********
+2022-01-26 11:42:54,985 - CucumberJava -INFO - ********Opening URL**********
+2022-01-26 11:42:57,295 - CucumberJava -INFO - ********Providing login details**********
+2022-01-26 11:42:57,536 - CucumberJava -INFO - ********Started login**********
+2022-01-26 11:44:48,454 - CucumberJava -INFO - ********Searching costumer by Name**********
+2022-01-26 11:44:52,346 - CucumberJava -INFO - ********Closing browser**********
+2022-01-26 12:10:33,165 - CucumberJava -INFO - ********Launching browser**********
+2022-01-26 12:10:33,190 - CucumberJava -INFO - ********Opening URL**********
+2022-01-26 12:10:35,869 - CucumberJava -INFO - ********Providing login details**********
+2022-01-26 12:10:36,126 - CucumberJava -INFO - ********Started login**********
+2022-01-26 12:12:39,817 - CucumberJava -INFO - ********Adding new costumer**********
+2022-01-26 12:12:39,817 - CucumberJava -INFO - ********Providing costumer details**********
+2022-01-26 12:12:47,163 - CucumberJava -INFO - ********Saving costumer data**********
+2022-01-26 12:12:52,237 - CucumberJava -INFO - ********Closing browser**********
+2022-01-26 12:12:53,651 - CucumberJava -INFO - ********Launching browser**********
+2022-01-26 12:12:53,659 - CucumberJava -INFO - ********Opening URL**********
+2022-01-26 12:12:56,048 - CucumberJava -INFO - ********Providing login details**********
+2022-01-26 12:12:56,321 - CucumberJava -INFO - ********Started login**********
+2022-01-26 12:13:20,316 - CucumberJava -INFO - ********Login failed**********
+2022-01-26 12:13:20,332 - CucumberJava -INFO - ********Click on logout link**********
+2022-01-26 12:13:27,134 - CucumberJava -INFO - ********Login failed**********
+2022-01-26 12:13:27,143 - CucumberJava -INFO - ********Closing browser**********
+2022-01-26 12:48:40,161 - CucumberJava -INFO - ********Launching browser**********
+2022-01-26 12:48:40,181 - CucumberJava -INFO - ********Opening URL**********
+2022-01-26 12:48:41,636 - CucumberJava -INFO - ********Launching browser**********
+2022-01-26 12:48:41,638 - CucumberJava -INFO - ********Opening URL**********
+2022-01-26 12:48:43,141 - CucumberJava -INFO - ********Launching browser**********
+2022-01-26 12:48:43,142 - CucumberJava -INFO - ********Opening URL**********
+2022-01-26 12:48:44,691 - CucumberJava -INFO - ********Launching browser**********
+2022-01-26 12:48:44,693 - CucumberJava -INFO - ********Opening URL**********
+2022-01-26 12:49:23,767 - CucumberJava -INFO - ********Launching browser**********
+2022-01-26 12:49:23,796 - CucumberJava -INFO - ********Opening URL**********
+2022-01-26 12:49:28,983 - CucumberJava -INFO - ********Providing login details**********
+2022-01-26 12:49:29,268 - CucumberJava -INFO - ********Started login**********
+2022-01-26 12:49:59,994 - CucumberJava -INFO - ********Searching costumer by email id**********
+2022-01-26 12:50:04,312 - CucumberJava -INFO - ********Closing browser**********
+2022-01-26 12:50:05,669 - CucumberJava -INFO - ********Launching browser**********
+2022-01-26 12:50:05,669 - CucumberJava -INFO - ********Opening URL**********
+2022-01-26 12:50:08,015 - CucumberJava -INFO - ********Providing login details**********
+2022-01-26 12:50:08,297 - CucumberJava -INFO - ********Started login**********
+2022-01-26 12:52:17,570 - CucumberJava -INFO - ********Launching browser**********
+2022-01-26 12:52:17,570 - CucumberJava -INFO - ********Opening URL**********
+2022-01-26 14:47:12,310 - CucumberJava -INFO - ********Launching browser**********
+2022-01-26 14:47:12,335 - CucumberJava -INFO - ********Opening URL**********
+2022-01-26 14:47:15,444 - CucumberJava -INFO - ********Providing login details**********
+2022-01-26 14:47:15,679 - CucumberJava -INFO - ********Started login**********
+2022-01-26 14:48:48,579 - CucumberJava -INFO - ********Adding new costumer**********
+2022-01-26 14:48:48,579 - CucumberJava -INFO - ********Providing costumer details**********
+2022-01-26 14:48:55,948 - CucumberJava -INFO - ********Saving costumer data**********
+2022-01-26 14:49:01,299 - CucumberJava -INFO - ********Closing browser**********
+2022-01-26 14:49:02,794 - CucumberJava -INFO - ********Launching browser**********
+2022-01-26 14:49:02,798 - CucumberJava -INFO - ********Opening URL**********
+2022-01-26 14:49:07,872 - CucumberJava -INFO - ********Providing login details**********
+2022-01-26 14:49:08,141 - CucumberJava -INFO - ********Started login**********
+2022-01-26 14:52:09,456 - CucumberJava -INFO - ********Launching browser**********
+2022-01-26 14:52:09,457 - CucumberJava -INFO - ********Opening URL**********
+2022-01-26 14:52:11,862 - CucumberJava -INFO - ********Providing login details**********
+2022-01-26 14:52:12,117 - CucumberJava -INFO - ********Started login**********
+2022-01-26 14:52:52,859 - CucumberJava -INFO - ********Searching costumer by Name**********
+2022-01-26 14:52:56,659 - CucumberJava -INFO - ********Closing browser**********
+2022-01-26 14:52:57,983 - CucumberJava -INFO - ********Launching browser**********
+2022-01-26 14:52:57,996 - CucumberJava -INFO - ********Opening URL**********
+2022-01-26 14:53:00,432 - CucumberJava -INFO - ********Providing login details**********
+2022-01-26 14:53:00,698 - CucumberJava -INFO - ********Started login**********
+2022-01-26 14:53:08,542 - CucumberJava -INFO - ********Login failed**********
+2022-01-26 14:53:08,572 - CucumberJava -INFO - ********Click on logout link**********
+2022-01-26 14:53:14,772 - CucumberJava -INFO - ********Login failed**********
+2022-01-26 14:53:14,792 - CucumberJava -INFO - ********Closing browser**********
+2022-01-26 14:53:16,090 - CucumberJava -INFO - ********Launching browser**********
+2022-01-26 14:53:16,091 - CucumberJava -INFO - ********Opening URL**********
+2022-01-26 14:53:18,422 - CucumberJava -INFO - ********Providing login details**********
+2022-01-26 14:53:18,660 - CucumberJava -INFO - ********Started login**********
+2022-01-26 14:53:27,015 - CucumberJava -INFO - ********Login failed**********
+2022-01-26 14:53:27,030 - CucumberJava -INFO - ********Click on logout link**********
+2022-01-26 14:53:32,411 - CucumberJava -INFO - ********Login failed**********
+2022-01-26 14:53:32,427 - CucumberJava -INFO - ********Closing browser**********
+2022-01-26 14:53:33,818 - CucumberJava -INFO - ********Launching browser**********
+2022-01-26 14:53:33,818 - CucumberJava -INFO - ********Opening URL**********
+2022-01-26 14:53:36,408 - CucumberJava -INFO - ********Providing login details**********
+2022-01-26 14:53:36,701 - CucumberJava -INFO - ********Started login**********
+2022-01-26 14:53:38,305 - CucumberJava -INFO - ********Login passed**********
+2022-01-26 14:54:50,783 - CucumberJava -INFO - ********Launching browser**********
+2022-01-26 14:54:50,811 - CucumberJava -INFO - ********Opening URL**********
+2022-01-26 14:54:53,511 - CucumberJava -INFO - ********Providing login details**********
+2022-01-26 14:54:53,798 - CucumberJava -INFO - ********Started login**********
+2022-01-26 14:55:46,215 - CucumberJava -INFO - ********Adding new costumer**********
+2022-01-26 14:55:46,215 - CucumberJava -INFO - ********Providing costumer details**********
+2022-01-26 14:55:53,571 - CucumberJava -INFO - ********Saving costumer data**********
+2022-01-26 14:55:58,435 - CucumberJava -INFO - ********Closing browser**********
+2022-01-26 14:55:59,968 - CucumberJava -INFO - ********Launching browser**********
+2022-01-26 14:55:59,976 - CucumberJava -INFO - ********Opening URL**********
+2022-01-26 14:56:02,249 - CucumberJava -INFO - ********Providing login details**********
+2022-01-26 14:56:02,534 - CucumberJava -INFO - ********Started login**********
+2022-01-26 14:56:19,819 - CucumberJava -INFO - ********Searching costumer by email id**********
+2022-01-26 14:56:23,505 - CucumberJava -INFO - ********Closing browser**********
+2022-01-26 14:56:24,936 - CucumberJava -INFO - ********Launching browser**********
+2022-01-26 14:56:24,938 - CucumberJava -INFO - ********Opening URL**********
+2022-01-26 14:56:27,498 - CucumberJava -INFO - ********Providing login details**********
+2022-01-26 14:56:27,763 - CucumberJava -INFO - ********Started login**********
+2022-01-26 14:56:45,706 - CucumberJava -INFO - ********Searching costumer by Name**********
+2022-01-26 14:56:49,475 - CucumberJava -INFO - ********Closing browser**********
+2022-01-26 14:56:50,958 - CucumberJava -INFO - ********Launching browser**********
+2022-01-26 14:56:50,961 - CucumberJava -INFO - ********Opening URL**********
+2022-01-26 14:56:53,420 - CucumberJava -INFO - ********Providing login details**********
+2022-01-26 14:56:53,679 - CucumberJava -INFO - ********Started login**********
+2022-01-26 14:57:03,252 - CucumberJava -INFO - ********Login failed**********
+2022-01-26 14:57:03,271 - CucumberJava -INFO - ********Click on logout link**********
+2022-01-26 14:57:08,192 - CucumberJava -INFO - ********Login failed**********
+2022-01-26 14:57:08,208 - CucumberJava -INFO - ********Closing browser**********
+2022-01-26 14:57:09,637 - CucumberJava -INFO - ********Launching browser**********
+2022-01-26 14:57:09,639 - CucumberJava -INFO - ********Opening URL**********
+2022-01-26 14:57:12,734 - CucumberJava -INFO - ********Providing login details**********
+2022-01-26 14:57:13,004 - CucumberJava -INFO - ********Started login**********
+2022-01-26 14:57:18,870 - CucumberJava -INFO - ********Login failed**********
+2022-01-26 14:57:18,884 - CucumberJava -INFO - ********Click on logout link**********
+2022-01-26 14:57:24,478 - CucumberJava -INFO - ********Login failed**********
+2022-01-26 14:57:24,486 - CucumberJava -INFO - ********Closing browser**********
+2022-01-26 14:57:25,911 - CucumberJava -INFO - ********Launching browser**********
+2022-01-26 14:57:25,914 - CucumberJava -INFO - ********Opening URL**********
+2022-01-26 14:57:27,598 - CucumberJava -INFO - ********Providing login details**********
+2022-01-26 14:57:27,861 - CucumberJava -INFO - ********Started login**********
+2022-01-26 14:57:28,585 - CucumberJava -INFO - ********Login passed**********
+2022-01-26 15:02:25,228 - CucumberJava -INFO - ********Launching browser**********
+2022-01-26 15:02:25,257 - CucumberJava -INFO - ********Opening URL**********
+2022-01-26 15:02:27,664 - CucumberJava -INFO - ********Providing login details**********
+2022-01-26 15:02:27,955 - CucumberJava -INFO - ********Started login**********
+2022-01-26 15:02:50,490 - CucumberJava -INFO - ********Adding new costumer**********
+2022-01-26 15:02:50,490 - CucumberJava -INFO - ********Providing costumer details**********
+2022-01-26 15:02:57,836 - CucumberJava -INFO - ********Saving costumer data**********
+2022-01-26 15:03:02,631 - CucumberJava -INFO - ********Closing browser**********
+2022-01-26 15:03:04,108 - CucumberJava -INFO - ********Launching browser**********
+2022-01-26 15:03:04,115 - CucumberJava -INFO - ********Opening URL**********
+2022-01-26 15:03:06,645 - CucumberJava -INFO - ********Providing login details**********
+2022-01-26 15:03:06,918 - CucumberJava -INFO - ********Started login**********
+2022-01-26 15:03:20,922 - CucumberJava -INFO - ********Login failed**********
+2022-01-26 15:03:20,945 - CucumberJava -INFO - ********Click on logout link**********
+2022-01-26 15:03:25,963 - CucumberJava -INFO - ********Login failed**********
+2022-01-26 15:03:25,974 - CucumberJava -INFO - ********Closing browser**********
+2022-01-26 22:10:39,570 - CucumberJava -INFO - ********Launching browser**********
+2022-01-26 22:10:39,604 - CucumberJava -INFO - ********Opening URL**********
+2022-01-26 22:10:42,249 - CucumberJava -INFO - ********Providing login details**********
+2022-01-26 22:10:42,489 - CucumberJava -INFO - ********Started login**********
+2022-01-26 22:11:06,120 - CucumberJava -INFO - ********Adding new costumer**********
+2022-01-26 22:11:06,121 - CucumberJava -INFO - ********Providing costumer details**********
+2022-01-26 22:11:13,594 - CucumberJava -INFO - ********Saving costumer data**********
+2022-01-26 22:11:18,587 - CucumberJava -INFO - ********Closing browser**********
+2022-01-26 22:11:20,139 - CucumberJava -INFO - ********Launching browser**********
+2022-01-26 22:11:20,145 - CucumberJava -INFO - ********Opening URL**********
+2022-01-26 22:11:23,686 - CucumberJava -INFO - ********Providing login details**********
+2022-01-26 22:11:23,965 - CucumberJava -INFO - ********Started login**********
+2022-01-26 22:11:30,733 - CucumberJava -INFO - ********Login failed**********
+2022-01-26 22:11:30,755 - CucumberJava -INFO - ********Click on logout link**********
+2022-01-26 22:11:35,690 - CucumberJava -INFO - ********Login failed**********
+2022-01-26 22:11:35,696 - CucumberJava -INFO - ********Closing browser**********
+2022-01-26 22:11:37,359 - CucumberJava -INFO - ********Launching browser**********
+2022-01-26 22:11:37,362 - CucumberJava -INFO - ********Opening URL**********
+2022-01-26 22:11:40,289 - CucumberJava -INFO - ********Providing login details**********
+2022-01-26 22:11:40,558 - CucumberJava -INFO - ********Started login**********
+2022-01-26 22:12:00,411 - CucumberJava -INFO - ********Adding new costumer**********
+2022-01-26 22:12:00,411 - CucumberJava -INFO - ********Providing costumer details**********
+2022-01-26 22:12:07,741 - CucumberJava -INFO - ********Saving costumer data**********
+2022-01-26 22:12:12,522 - CucumberJava -INFO - ********Closing browser**********
+2022-01-26 22:12:14,133 - CucumberJava -INFO - ********Launching browser**********
+2022-01-26 22:12:14,137 - CucumberJava -INFO - ********Opening URL**********
+2022-01-26 22:12:16,502 - CucumberJava -INFO - ********Providing login details**********
+2022-01-26 22:12:16,887 - CucumberJava -INFO - ********Started login**********
+2022-01-26 22:12:31,369 - CucumberJava -INFO - ********Searching costumer by email id**********
+2022-01-26 22:12:35,011 - CucumberJava -INFO - ********Closing browser**********
+2022-01-26 22:12:36,552 - CucumberJava -INFO - ********Launching browser**********
+2022-01-26 22:12:36,553 - CucumberJava -INFO - ********Opening URL**********
+2022-01-26 22:12:38,354 - CucumberJava -INFO - ********Providing login details**********
+2022-01-26 22:12:38,628 - CucumberJava -INFO - ********Started login**********
+2022-01-26 22:12:50,463 - CucumberJava -INFO - ********Searching costumer by Name**********
+2022-01-26 22:12:54,788 - CucumberJava -INFO - ********Closing browser**********
+2022-01-26 22:13:59,073 - CucumberJava -INFO - ********Launching browser**********
+2022-01-26 22:13:59,104 - CucumberJava -INFO - ********Opening URL**********
+2022-01-26 22:14:01,561 - CucumberJava -INFO - ********Providing login details**********
+2022-01-26 22:14:01,837 - CucumberJava -INFO - ********Started login**********
+2022-01-26 22:14:19,519 - CucumberJava -INFO - ********Adding new costumer**********
+2022-01-26 22:14:19,519 - CucumberJava -INFO - ********Providing costumer details**********
+2022-01-26 22:14:26,952 - CucumberJava -INFO - ********Saving costumer data**********
+2022-01-26 22:14:31,844 - CucumberJava -INFO - ********Closing browser**********
+2022-01-26 22:14:33,540 - CucumberJava -INFO - ********Launching browser**********
+2022-01-26 22:14:33,549 - CucumberJava -INFO - ********Opening URL**********
+2022-01-26 22:14:36,205 - CucumberJava -INFO - ********Providing login details**********
+2022-01-26 22:14:36,488 - CucumberJava -INFO - ********Started login**********
+2022-01-26 22:14:43,796 - CucumberJava -INFO - ********Login failed**********
+2022-01-26 22:14:43,832 - CucumberJava -INFO - ********Click on logout link**********
+2022-01-26 22:14:48,819 - CucumberJava -INFO - ********Login failed**********
+2022-01-26 22:14:48,832 - CucumberJava -INFO - ********Closing browser**********
+2022-01-26 22:14:50,575 - CucumberJava -INFO - ********Launching browser**********
+2022-01-26 22:14:50,579 - CucumberJava -INFO - ********Opening URL**********
+2022-01-26 22:14:52,244 - CucumberJava -INFO - ********Providing login details**********
+2022-01-26 22:14:52,546 - CucumberJava -INFO - ********Started login**********
+2022-01-26 22:15:11,014 - CucumberJava -INFO - ********Adding new costumer**********
+2022-01-26 22:15:11,014 - CucumberJava -INFO - ********Providing costumer details**********
+2022-01-26 22:15:18,353 - CucumberJava -INFO - ********Saving costumer data**********
+2022-01-26 22:15:23,083 - CucumberJava -INFO - ********Closing browser**********
+2022-01-26 22:15:24,781 - CucumberJava -INFO - ********Launching browser**********
+2022-01-26 22:15:24,784 - CucumberJava -INFO - ********Opening URL**********
+2022-01-26 22:15:26,972 - CucumberJava -INFO - ********Providing login details**********
+2022-01-26 22:15:27,252 - CucumberJava -INFO - ********Started login**********
+2022-01-26 22:15:41,921 - CucumberJava -INFO - ********Searching costumer by email id**********
+2022-01-26 22:15:45,519 - CucumberJava -INFO - ********Closing browser**********
+2022-01-26 22:15:47,187 - CucumberJava -INFO - ********Launching browser**********
+2022-01-26 22:15:47,190 - CucumberJava -INFO - ********Opening URL**********
+2022-01-26 22:15:49,127 - CucumberJava -INFO - ********Providing login details**********
+2022-01-26 22:15:49,402 - CucumberJava -INFO - ********Started login**********
+2022-01-26 22:16:03,232 - CucumberJava -INFO - ********Searching costumer by Name**********
+2022-01-26 22:16:06,983 - CucumberJava -INFO - ********Closing browser**********
+2022-01-27 21:55:37,509 - CucumberJava -INFO - ********Launching browser**********
+2022-01-27 21:55:37,578 - CucumberJava -INFO - ********Opening URL**********
+2022-01-27 21:55:40,678 - CucumberJava -INFO - ********Providing login details**********
+2022-01-27 21:55:41,096 - CucumberJava -INFO - ********Started login**********
+2022-01-27 21:56:11,249 - CucumberJava -INFO - ********Adding new costumer**********
+2022-01-27 21:56:11,250 - CucumberJava -INFO - ********Providing costumer details**********
+2022-01-27 21:56:18,908 - CucumberJava -INFO - ********Saving costumer data**********
+2022-01-27 21:56:24,600 - CucumberJava -INFO - ********Closing browser**********
+2022-01-27 21:56:26,187 - CucumberJava -INFO - ********Launching browser**********
+2022-01-27 21:56:26,190 - CucumberJava -INFO - ********Opening URL**********
+2022-01-27 21:56:28,715 - CucumberJava -INFO - ********Providing login details**********
+2022-01-27 21:56:29,023 - CucumberJava -INFO - ********Started login**********
+2022-01-27 21:57:10,643 - CucumberJava -INFO - ********Launching browser**********
+2022-01-27 21:57:10,680 - CucumberJava -INFO - ********Opening URL**********
+2022-01-27 21:57:13,384 - CucumberJava -INFO - ********Providing login details**********
+2022-01-27 21:57:13,813 - CucumberJava -INFO - ********Started login**********
+2022-01-27 22:11:29,594 - CucumberJava -INFO - ********Launching browser**********
+2022-01-27 22:11:29,656 - CucumberJava -INFO - ********Opening URL**********
+2022-01-27 22:11:32,496 - CucumberJava -INFO - ********Providing login details**********
+2022-01-27 22:11:32,984 - CucumberJava -INFO - ********Started login**********
+2022-01-28 11:12:13,865 - CucumberJava -INFO - ********Launching browser**********
+2022-01-28 11:12:13,911 - CucumberJava -INFO - ********Opening URL**********
+2022-01-28 11:12:16,375 - CucumberJava -INFO - ********Providing login details**********
+2022-01-28 11:12:16,681 - CucumberJava -INFO - ********Started login**********
+2022-01-28 11:13:50,649 - CucumberJava -INFO - ********Launching browser**********
+2022-01-28 11:13:50,676 - CucumberJava -INFO - ********Opening URL**********
+2022-01-28 11:13:53,143 - CucumberJava -INFO - ********Providing login details**********
+2022-01-28 11:13:53,534 - CucumberJava -INFO - ********Started login**********
+2022-01-28 11:16:55,024 - CucumberJava -INFO - ********Launching browser**********
+2022-01-28 11:16:55,037 - CucumberJava -INFO - ********Opening URL**********
+2022-01-28 11:16:57,239 - CucumberJava -INFO - ********Providing login details**********
+2022-01-28 11:16:57,551 - CucumberJava -INFO - ********Started login**********
+2022-01-28 11:17:04,526 - CucumberJava -INFO - ********Login failed**********
+2022-01-28 11:17:04,551 - CucumberJava -INFO - ********Click on logout link**********
+2022-01-28 11:17:09,394 - CucumberJava -INFO - ********Login failed**********
+2022-01-28 11:17:09,399 - CucumberJava -INFO - ********Closing browser**********
+2022-01-28 11:17:11,046 - CucumberJava -INFO - ********Launching browser**********
+2022-01-28 11:17:11,048 - CucumberJava -INFO - ********Opening URL**********
+2022-01-28 11:17:12,618 - CucumberJava -INFO - ********Providing login details**********
+2022-01-28 11:17:12,916 - CucumberJava -INFO - ********Started login**********
+2022-01-28 11:18:03,709 - CucumberJava -INFO - ********Launching browser**********
+2022-01-28 11:18:03,711 - CucumberJava -INFO - ********Opening URL**********
+2022-01-28 11:26:16,714 - CucumberJava -INFO - ********Launching browser**********
+2022-01-28 11:26:16,744 - CucumberJava -INFO - ********Opening URL**********
+2022-01-28 11:26:19,176 - CucumberJava -INFO - ********Providing login details**********
+2022-01-28 11:26:19,454 - CucumberJava -INFO - ********Started login**********
+2022-01-28 11:26:42,393 - CucumberJava -INFO - ********Adding new costumer**********
+2022-01-28 11:26:42,393 - CucumberJava -INFO - ********Providing costumer details**********
+2022-01-28 11:26:49,773 - CucumberJava -INFO - ********Saving costumer data**********
+2022-01-28 11:26:54,557 - CucumberJava -INFO - ********Closing browser**********
+2022-01-28 11:27:00,000 - CucumberJava -INFO - ********Launching browser**********
+2022-01-28 11:27:00,002 - CucumberJava -INFO - ********Opening URL**********
+2022-01-28 11:27:02,789 - CucumberJava -INFO - ********Providing login details**********
+2022-01-28 11:27:03,040 - CucumberJava -INFO - ********Started login**********
+2022-01-28 11:27:19,834 - CucumberJava -INFO - ********Searching costumer by email id**********
+2022-01-28 11:27:23,420 - CucumberJava -INFO - ********Closing browser**********
+2022-01-28 11:27:24,886 - CucumberJava -INFO - ********Launching browser**********
+2022-01-28 11:27:24,887 - CucumberJava -INFO - ********Opening URL**********
+2022-01-28 11:27:26,432 - CucumberJava -INFO - ********Providing login details**********
+2022-01-28 11:27:26,707 - CucumberJava -INFO - ********Started login**********
+2022-01-28 11:27:39,134 - CucumberJava -INFO - ********Searching costumer by Name**********
+2022-01-28 11:27:42,824 - CucumberJava -INFO - ********Closing browser**********
+2022-01-28 11:28:44,546 - CucumberJava -INFO - ********Launching browser**********
+2022-01-28 11:28:44,587 - CucumberJava -INFO - ********Opening URL**********
+2022-01-28 11:28:46,374 - CucumberJava -INFO - ********Providing login details**********
+2022-01-28 11:28:46,642 - CucumberJava -INFO - ********Started login**********
+2022-01-28 11:29:02,404 - CucumberJava -INFO - ********Adding new costumer**********
+2022-01-28 11:29:02,404 - CucumberJava -INFO - ********Providing costumer details**********
+2022-01-28 11:29:09,720 - CucumberJava -INFO - ********Saving costumer data**********
+2022-01-28 11:29:14,543 - CucumberJava -INFO - ********Closing browser**********
+2022-01-28 11:29:15,982 - CucumberJava -INFO - ********Launching browser**********
+2022-01-28 11:29:15,983 - CucumberJava -INFO - ********Opening URL**********
+2022-01-28 11:29:17,613 - CucumberJava -INFO - ********Providing login details**********
+2022-01-28 11:29:17,895 - CucumberJava -INFO - ********Started login**********
+2022-01-28 11:29:31,618 - CucumberJava -INFO - ********Searching costumer by email id**********
+2022-01-28 11:29:35,233 - CucumberJava -INFO - ********Closing browser**********
+2022-01-28 11:29:36,591 - CucumberJava -INFO - ********Launching browser**********
+2022-01-28 11:29:36,591 - CucumberJava -INFO - ********Opening URL**********
+2022-01-28 11:29:38,816 - CucumberJava -INFO - ********Providing login details**********
+2022-01-28 11:29:39,100 - CucumberJava -INFO - ********Started login**********
+2022-01-28 11:34:28,848 - CucumberJava -INFO - ********Launching browser**********
+2022-01-28 11:34:28,883 - CucumberJava -INFO - ********Opening URL**********
+2022-01-28 11:34:31,315 - CucumberJava -INFO - ********Providing login details**********
+2022-01-28 11:34:31,583 - CucumberJava -INFO - ********Started login**********
+2022-01-28 11:34:49,891 - CucumberJava -INFO - ********Adding new costumer**********
+2022-01-28 11:34:49,891 - CucumberJava -INFO - ********Providing costumer details**********
+2022-01-28 11:34:57,253 - CucumberJava -INFO - ********Saving costumer data**********
+2022-01-28 11:35:03,006 - CucumberJava -INFO - ********Closing browser**********
+2022-01-28 11:35:04,444 - CucumberJava -INFO - ********Launching browser**********
+2022-01-28 11:35:04,444 - CucumberJava -INFO - ********Opening URL**********
+2022-01-28 11:35:06,649 - CucumberJava -INFO - ********Providing login details**********
+2022-01-28 11:35:06,925 - CucumberJava -INFO - ********Started login**********
+2022-01-28 11:35:24,564 - CucumberJava -INFO - ********Searching costumer by email id**********
+2022-01-28 11:35:28,693 - CucumberJava -INFO - ********Closing browser**********
+2022-01-28 11:35:30,081 - CucumberJava -INFO - ********Launching browser**********
+2022-01-28 11:35:30,087 - CucumberJava -INFO - ********Opening URL**********
+2022-01-28 11:35:32,416 - CucumberJava -INFO - ********Providing login details**********
+2022-01-28 11:35:32,677 - CucumberJava -INFO - ********Started login**********
+2022-01-28 11:35:49,967 - CucumberJava -INFO - ********Searching costumer by Name**********
+2022-01-28 11:35:53,644 - CucumberJava -INFO - ********Closing browser**********
+2022-01-28 16:54:55,670 - CucumberJava -INFO - ********Launching browser**********
+2022-01-28 16:54:55,702 - CucumberJava -INFO - ********Opening URL**********
+2022-01-28 16:54:58,059 - CucumberJava -INFO - ********Providing login details**********
+2022-01-28 16:54:58,330 - CucumberJava -INFO - ********Started login**********
+2022-01-28 21:11:37,103 - CucumberJava -INFO - ********Launching browser**********
+2022-01-28 21:11:37,130 - CucumberJava -INFO - ********Opening URL**********
+2022-01-28 21:11:39,837 - CucumberJava -INFO - ********Providing login details**********
+2022-01-28 21:11:40,096 - CucumberJava -INFO - ********Started login**********
+2022-01-28 21:11:59,682 - CucumberJava -INFO - ********Adding new costumer**********
+2022-01-28 21:11:59,682 - CucumberJava -INFO - ********Providing costumer details**********
+2022-01-28 21:12:07,042 - CucumberJava -INFO - ********Saving costumer data**********
+2022-01-28 21:12:11,867 - CucumberJava -INFO - ********Closing browser**********
+2022-01-28 21:12:13,336 - CucumberJava -INFO - ********Launching browser**********
+2022-01-28 21:12:13,336 - CucumberJava -INFO - ********Opening URL**********
+2022-01-28 21:12:15,500 - CucumberJava -INFO - ********Providing login details**********
+2022-01-28 21:12:15,774 - CucumberJava -INFO - ********Started login**********
+2022-01-28 21:12:30,426 - CucumberJava -INFO - ********Searching costumer by email id**********
+2022-01-28 21:12:34,546 - CucumberJava -INFO - ********Closing browser**********
+2022-01-28 21:12:35,878 - CucumberJava -INFO - ********Launching browser**********
+2022-01-28 21:12:35,887 - CucumberJava -INFO - ********Opening URL**********
+2022-01-28 21:12:38,019 - CucumberJava -INFO - ********Providing login details**********
+2022-01-28 21:12:38,296 - CucumberJava -INFO - ********Started login**********
+2022-01-28 21:12:56,422 - CucumberJava -INFO - ********Searching costumer by Name**********
+2022-01-28 21:13:00,157 - CucumberJava -INFO - ********Closing browser**********
+2022-01-28 21:30:21,145 - CucumberJava -INFO - ********Launching browser**********
+2022-01-28 21:30:21,198 - CucumberJava -INFO - ********Opening URL**********
+2022-01-28 21:30:23,586 - CucumberJava -INFO - ********Providing login details**********
+2022-01-28 21:30:23,917 - CucumberJava -INFO - ********Started login**********
+2022-01-28 21:30:44,300 - CucumberJava -INFO - ********Adding new costumer**********
+2022-01-28 21:30:44,300 - CucumberJava -INFO - ********Providing costumer details**********
+2022-01-28 21:30:51,719 - CucumberJava -INFO - ********Saving costumer data**********
+2022-01-28 21:30:56,668 - CucumberJava -INFO - ********Closing browser**********
+2022-01-28 21:30:58,278 - CucumberJava -INFO - ********Launching browser**********
+2022-01-28 21:30:58,280 - CucumberJava -INFO - ********Opening URL**********
+2022-01-28 21:31:00,705 - CucumberJava -INFO - ********Providing login details**********
+2022-01-28 21:31:00,997 - CucumberJava -INFO - ********Started login**********
+2022-01-28 21:31:08,389 - CucumberJava -INFO - ********Login failed**********
+2022-01-28 21:31:08,408 - CucumberJava -INFO - ********Click on logout link**********
+2022-01-28 21:31:13,210 - CucumberJava -INFO - ********Login failed**********
+2022-01-28 21:31:13,217 - CucumberJava -INFO - ********Closing browser**********
+2022-01-28 21:31:14,718 - CucumberJava -INFO - ********Launching browser**********
+2022-01-28 21:31:14,718 - CucumberJava -INFO - ********Opening URL**********
+2022-01-28 21:31:17,176 - CucumberJava -INFO - ********Providing login details**********
+2022-01-28 21:31:17,457 - CucumberJava -INFO - ********Started login**********
+2022-01-28 21:31:37,665 - CucumberJava -INFO - ********Adding new costumer**********
+2022-01-28 21:31:37,665 - CucumberJava -INFO - ********Providing costumer details**********
+2022-01-28 21:31:45,010 - CucumberJava -INFO - ********Saving costumer data**********
+2022-01-28 21:31:49,696 - CucumberJava -INFO - ********Closing browser**********
+2022-01-28 21:31:51,196 - CucumberJava -INFO - ********Launching browser**********
+2022-01-28 21:31:51,196 - CucumberJava -INFO - ********Opening URL**********
+2022-01-28 21:31:53,724 - CucumberJava -INFO - ********Providing login details**********
+2022-01-28 21:31:54,002 - CucumberJava -INFO - ********Started login**********
+2022-01-28 21:32:09,269 - CucumberJava -INFO - ********Searching costumer by email id**********
+2022-01-28 21:32:12,955 - CucumberJava -INFO - ********Closing browser**********
+2022-01-28 21:32:14,450 - CucumberJava -INFO - ********Launching browser**********
+2022-01-28 21:32:14,450 - CucumberJava -INFO - ********Opening URL**********
+2022-01-28 21:32:16,789 - CucumberJava -INFO - ********Providing login details**********
+2022-01-28 21:32:17,083 - CucumberJava -INFO - ********Started login**********
+2022-01-28 21:32:33,473 - CucumberJava -INFO - ********Searching costumer by Name**********
+2022-01-28 21:32:37,276 - CucumberJava -INFO - ********Closing browser**********
+2022-01-28 21:46:12,998 - CucumberJava -INFO - ********Launching browser**********
+2022-01-28 21:46:13,018 - CucumberJava -INFO - ********Opening URL**********
+2022-01-28 21:46:15,406 - CucumberJava -INFO - ********Providing login details**********
+2022-01-28 21:46:15,654 - CucumberJava -INFO - ********Started login**********
+2022-01-28 21:46:33,446 - CucumberJava -INFO - ********Adding new costumer**********
+2022-01-28 21:46:33,446 - CucumberJava -INFO - ********Providing costumer details**********
+2022-01-28 21:46:40,759 - CucumberJava -INFO - ********Saving costumer data**********
+2022-01-28 21:46:45,395 - CucumberJava -INFO - ********Closing browser**********
+2022-01-28 21:46:46,720 - CucumberJava -INFO - ********Launching browser**********
+2022-01-28 21:46:46,721 - CucumberJava -INFO - ********Opening URL**********
+2022-01-28 21:46:48,843 - CucumberJava -INFO - ********Providing login details**********
+2022-01-28 21:46:49,111 - CucumberJava -INFO - ********Started login**********
+2022-01-28 21:47:32,098 - CucumberJava -INFO - ********Searching costumer by email id**********
+2022-01-28 21:47:35,771 - CucumberJava -INFO - ********Closing browser**********
+2022-01-28 21:47:37,158 - CucumberJava -INFO - ********Launching browser**********
+2022-01-28 21:47:37,158 - CucumberJava -INFO - ********Opening URL**********
+2022-01-28 21:47:44,643 - CucumberJava -INFO - ********Providing login details**********
+2022-01-28 21:47:44,892 - CucumberJava -INFO - ********Started login**********
+2022-01-28 21:48:06,866 - CucumberJava -INFO - ********Searching costumer by Name**********
+2022-01-28 21:48:10,617 - CucumberJava -INFO - ********Closing browser**********
